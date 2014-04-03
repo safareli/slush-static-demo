@@ -1,0 +1,12 @@
+@import url("http://fonts.googleapis.com/css?family=Roboto:300");
+html {
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  background: -webkit-linear-gradient(top, #fff, #333);
+  background: -moz-linear-gradient(top, #fff, #333);
+  background: -o-linear-gradient(top, #fff, #333);
+  background: -ms-linear-gradient(top, #fff, #333);
+  background: linear-gradient(to bottom, #fff, #333);
+  text-shadow: 0 -0.1em #fff;
+  color: #4d4d4d;
+}
